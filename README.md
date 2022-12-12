@@ -7,11 +7,12 @@
 [Онлайн-магазин](https://github.com/MaxWanted/momo-store)    
 [Инфраструктура онлайн-магазина](https://github.com/MaxWanted/momo-store-infra)
 - **Coding**  
-[Приложение "АРМ Обходчик"](https://github.com/MaxWanted/Lineman)
+[Приложение "АРМ Обходчик"](https://github.com/MaxWanted/Lineman)  
+[Telegram bot](https://github.com/MaxWanted/TelegramBot)
 <br>
 
 ### Контакты
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/MaxWanted) [![Mail](https://img.shields.io/badge/Gmail-D14836??style=flat&logo=gmail&logoColor=white)](mailto:m.a.derkach@gmail.com)
+> [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/MaxWanted) [![Mail](https://img.shields.io/badge/Gmail-D14836??style=flat&logo=gmail&logoColor=white)](mailto:m.a.derkach@gmail.com)
 <br>
 
 ### Навыки и инструменты
