@@ -8,7 +8,6 @@
 [Инфраструктура онлайн-магазина](https://github.com/MaxWanted/momo-store-infra)
 - **Coding**  
 [Приложение "АРМ Обходчик"](https://github.com/MaxWanted/Lineman)  
-[Telegram bot](https://github.com/MaxWanted/TelegramBot)
 <br>
 
 ### Контакты
