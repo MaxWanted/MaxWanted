@@ -3,13 +3,17 @@
 <br>
 
 ### Мои проекты
-- **DevOps**  
-[Онлайн-магазин](https://github.com/MaxWanted/momo-store)    
-[Инфраструктура онлайн-магазина](https://github.com/MaxWanted/momo-store-infra)
-- **Coding**  
-[Приложение "АРМ Обходчик"](https://github.com/MaxWanted/Lineman)  
-[Telegram bot](https://github.com/MaxWanted/TelegramBot)
+***
+**DevOps**  
+- [Онлайн-магазин](https://github.com/MaxWanted/momo-store) (Gitlab CI/CD, Docker, Golang, HTML/JavaScript)  
+- [Инфраструктура онлайн-магазина](https://github.com/MaxWanted/momo-store-infra) (Yandex Cloud, Gitlab CI/CD, Docker, K8s, Helm, Terraform, Prometheus, Grafana, Alertmanager)   
+- [Конвертер изображений - окружение и деплой в Swarm](https://github.com/MaxWanted/Ansible-deploy-to-Swarm) (Ansible, Docker Swarm)  
+
+**Coding**  
+- [Приложение "АРМ Обходчик"](https://github.com/MaxWanted/Lineman) (Python, QT, SQLite)   
+- [Telegram bot](https://github.com/MaxWanted/TelegramBot) (Python, Heroku)  
 <br>
+
 
 ### Контакты
 > [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/MaxWanted) [![Mail](https://img.shields.io/badge/Gmail-D14836??style=flat&logo=gmail&logoColor=white)](mailto:m.a.derkach@gmail.com)
