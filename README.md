@@ -2,19 +2,17 @@
 ### DevOps
 
 ***
+**Projects**
 - [Online-store](https://github.com/MaxWanted/momo-store) (Gitlab CI/CD, Docker, Golang, HTML/JavaScript)
 - [Infrastructure](https://github.com/MaxWanted/momo-store-infra) (Yandex Cloud, Gitlab CI/CD, Docker, K8s, Helm, Terraform, Prometheus, Grafana, Alertmanager)
 - [Image Converter - environment and deployment to Swarm](https://github.com/MaxWanted/Ansible-deploy-to-Swarm) (Ansible, Docker Swarm, Vagrant)
-
-- [App. "Lineman"](https://github.com/MaxWanted/Lineman) (Python, QT, SQLite)
+- [App. Lineman](https://github.com/MaxWanted/Lineman) (Python, QT, SQLite)
 - [Telegram bot](https://github.com/MaxWanted/TelegramBot) (Python, Heroku)
 
 
+**Contacts**
 
-**Contact**
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/MaxWanted) [![Mail](https://img.shields.io/badge/Gmail-D14836??style=flat&logo=gmail&logoColor=white)](mailto:m.a.derkach@gmail.com) [![LinkedIn](https://img.shields.io/static/v1?style=flat&logo&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)]([mailto:m.a.derkach@gmail.com](https://linkedin.com/in/maksim-derkach))
-
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/MaxWanted) [![Mail](https://img.shields.io/badge/Gmail-D14836??style=flat&logo=gmail&logoColor=white)](mailto:m.a.derkach@gmail.com) [![LinkedIn](https://img.shields.io/static/v1?style=flat&logo&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://linkedin.com/in/maksim-derkach)
 
 **Stack**
 
