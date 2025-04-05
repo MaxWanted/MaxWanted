@@ -8,6 +8,7 @@
 - [Image Converter - environment and deployment to Swarm](https://github.com/MaxWanted/Ansible-deploy-to-Swarm) (Ansible, Docker Swarm, Vagrant)
 - [App. Lineman](https://github.com/MaxWanted/Lineman) (Python, QT, SQLite)
 - [Telegram bot](https://github.com/MaxWanted/TelegramBot) (Python, Heroku)
+- [Get secrets from Vault](https://github.com/MaxWanted/get-secrets-by-hvac) (Python)
 
 
 **Contacts**
