@@ -1,5 +1,5 @@
 # Максим Деркач
-### DevOps
+### DevOps/SRE
 
 ***
 **Projects**
